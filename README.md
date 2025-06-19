@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Yiheng Li. I’m currently studying at State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences, to pursue a master's degree. (2024-Now)
+
+🔭 Before that, I obtained my bachelor's degree from Xi'an Jiaotong University along with an honors degree from the Qian Xuesen Honors College. (2020-2024)
+
+🤔 My research interests include computer vision, autonomous driving, and AIGC detection. I have also published several papers in CCF-A conferences.
+
+📫 If you are intersted in my research, feel free to contact with me. Emails: yihengli620@gmail.com, liyiheng2024@ia.ac.cn
