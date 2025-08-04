@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Yiheng Li. I’m currently studying at State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences, to pursue a master's degree. (2024-Now)
+👋 Hi, I'm Yiheng Li. I’m currently studying at State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences, to pursue a master's degree. (2024.09-Now)
 
-🔭 Before that, I obtained my bachelor's degree from Xi'an Jiaotong University along with an honors degree from the Qian Xuesen Honors College. (2020-2024)
+🔭 Before that, I obtained my bachelor's degree in Artificial Intelligence (experimental class) from Xi'an Jiaotong University along with an honors degree from the Qian Xuesen Honors College. (2020.09-2024.06)
 
 🤔 My research interests include computer vision, autonomous driving, and AIGC detection. I have also published several papers in CCF-A conferences and JCR-Q1 journal.
 
