@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/liyih"><img src="https://komarev.com/ghpvc/?username=liyih" alt="liyih" /></a>
-<a href="https://github.com/liyih?tab=followers"><img src="https://img.shields.io/github/followers/liyih"></a>
 
 ![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyih&show_icons=true&theme=merko)
 
