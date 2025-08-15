@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyih&show_icons=true&theme=merko)
 
 👋 Hi, I'm Yiheng Li. I’m currently studying at State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences, to pursue a master's degree. (2024.09-Now)
 
