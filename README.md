@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🔭 Before that, I obtained my bachelor's degree in Artificial Intelligence (experimental class) from Xi'an Jiaotong University along with an honors degree from the Qian Xuesen Honors College. (2020.09-2024.06)
 
-🤔 My research interests include computer vision, autonomous driving, and AIGC detection. I have also published several papers in CCF-A conferences and JCR-Q1 journal.
+🤔 My research interests include computer vision, autonomous driving, and AIGC detection. I have also published several papers in CCF-A conferences and JCR-Q1 journal. Refer to my [google scholar](https://scholar.google.com/citations?user=kpYW9pQAAAAJ&hl=en) for details.
 
 📫 If you are intersted in my research, feel free to contact with me. Emails: yihengli620@gmail.com, liyiheng2024@ia.ac.cn
