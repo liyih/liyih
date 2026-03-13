@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 🤔 My research interests include computer vision, autonomous driving, and AIGC detection. I have also published several papers in CCF-A conferences and JCR-Q1 journal. Refer to my [google scholar](https://scholar.google.com/citations?user=kpYW9pQAAAAJ&hl=en) for details.
 
 📫 If you are intersted in my research, feel free to contact with me. Emails: yihengli620@gmail.com, liyiheng2024@ia.ac.cn
+
+✨ If you are interested in my open-source repo, please give it a star.
+
+👯 I’m looking to collaborate on AIGC detection (especially for image), and welcome academic cooperation and technical exchanges.
