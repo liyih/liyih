@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Yiheng Li. I’m currently in a combined Master's and PhD program (2-year master + 3-year PhD) at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences, pursuing a PhD. (2024.09 – Present)
+👋 Hi, I'm Yiheng Li. I’m currently in a combined Master's and PhD program (2-year master + 3-year PhD) at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences, pursuing a PhD under the supervision of Prof. [Zhen Lei](https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=en) and prof. [Yang Yang](https://scholar.google.com/citations?user=YU-yRMsAAAAJ&hl=en). (2024.09 – Present). (2024.09 – Present)
 
 🔭 Before that, I obtained my bachelor's degree in Artificial Intelligence (experimental class) from Xi'an Jiaotong University along with an honors degree from the Qian Xuesen Honors College. (2020.09-2024.06)
 
